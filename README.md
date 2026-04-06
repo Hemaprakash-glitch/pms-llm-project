@@ -44,13 +44,13 @@ streamlit run app.py
 
 ---
 
-## 📊 Results
+## Results
 
 * 100% JSON structural accuracy
 * 56% classification accuracy
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Hemaprakash V K
